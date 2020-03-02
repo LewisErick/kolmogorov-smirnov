@@ -1,3 +1,5 @@
+// Based on Word Cloud Graph by
+// https://www.d3-graph-gallery.com/graph/wordcloud_size.html
 // List of words
 var myWords = [
     {word: "kick", size: "15"},
